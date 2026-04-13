@@ -6,3 +6,6 @@ Nest es una solución a la organización académica la cual está diseñada para
 - Crear notas
 - Crea grupos con tus amigos para compartir tareas, recordatorios, eventos, notas e incluso pueden crear encuestas para organizarse mejor
 - Tener tu calendario a la mano y compartirlo con tus amigos
+
+## Sobre Nest
+Nest inició como un proyecto escolar, donde el objetivo era desde un inicio crear una agenda universitaria con gestión de tareas, notificaciones push y
