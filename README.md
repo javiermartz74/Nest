@@ -10,4 +10,4 @@ Nest es una solución a la organización académica la cual está diseñada para
 ## Sobre Nest
 Nest nació como un proyecto académico con un objetivo claro: crear una agenda universitaria integral que permitiera gestionar tareas, recibir notificaciones push y visualizar el calendario semanal de forma eficiente.
 
-Durante el desarrollo de la etapa "Agenda 1.0", el potencial del proyecto superó los límites iniciales. Tras un proceso de iteración y rediseño, llegamos a la versión 4.0 (Albatros), donde el producto evolucionó para ser rebautizado como Nest: un sistema de gestión de tareas tanto personal como colaborativo, diseñado para adaptarse al ritmo de vida actual.
+Durante el desarrollo de la app "Agenda", el potencial del proyecto superó los límites iniciales. Tras un proceso de iteración y rediseño, llegamos a la versión 1.0 (Albatros), donde el producto evolucionó para ser rebautizado como Nest: un sistema de gestión de tareas tanto personal como colaborativo, diseñado para adaptarse al ritmo de vida actual.
