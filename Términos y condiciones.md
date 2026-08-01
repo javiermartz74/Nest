@@ -1,7 +1,6 @@
 # Términos y Condiciones de Uso de Nest
 
 **Última actualización:** 1 de agosto de 2026  
-**Fecha de entrada en vigor:** 1 de agosto de 2026
 
 Bienvenido a **Nest**. Los presentes Términos y Condiciones de Uso (en adelante, los "Términos") rigen el acceso y uso de la aplicación móvil **Nest** (en adelante, la "Aplicación"), desarrollada y operada por **Zerik Labs** (en adelante, "nosotros", "nuestro" o el "Proveedor del Servicio").
 
