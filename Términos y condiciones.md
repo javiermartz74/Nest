@@ -37,15 +37,16 @@ Al descargar, instalar, acceder o utilizar la Aplicación, usted (en adelante, e
 
 ---
 
-## 4. Uso Aceptable y Normas de la Comunidad
+## 4. Uso Aceptable y Normas de la Comunidad (Sistema de Sanciones)
 
-El Usuario se compromete a no utilizar **Nest** para:
-* Publicar, compartir o transmitir contenido ilegal, difamatorio, acosador, amenazante o discriminatorio dentro de los grupos de trabajo.
-* Intentar descompilar, hacer ingeniería inversa o interferir con la seguridad e infraestructura de la Aplicación (incluyendo servicios de Firebase y servidores vinculados).
-* Utilizar la Aplicación de forma automatizada (*bots*, *scrapers*) no autorizada.
-* Utilizar el Servicio para enviar correo no deseado (*spam*) o comunicaciones comerciales no autorizadas a otros usuarios.
+1. **Conducta Prohibida:** El Usuario se compromete a no utilizar las funciones sociales o grupales de **Nest** para:
+   * Publicar, compartir o transmitir contenido ilegal, difamatorio, acosador, amenazante o discriminatorio.
+   * Intentar descompilar, hacer ingeniería inversa o interferir con la seguridad e infraestructura de la Aplicación (incluyendo servicios de Firebase y servidores vinculados).
+   * Utilizar la Aplicación de forma automatizada (*bots*, *scrapers*) no autorizada o enviar correo no deseado (*spam*).
 
-Zerik Labs se reserva el derecho de suspender o cancelar la cuenta de cualquier usuario que viole estas reglas.
+2. **Alcance de las Sanciones y Filosofía de Retención de Datos:** En Zerik Labs reconocemos el valor del contenido que cada usuario crea y consideramos que **el Usuario mantiene el derecho fundamental a acceder y conservar su información personal**. Por ello, el sistema de sanciones de **Nest** se rige bajo los siguientes principios:
+   * **Protección de la Información Personal:** Salvo por orden judicial o infracciones legales graves que comprometan la seguridad de la infraestructura, las sanciones impuestas por mal comportamiento dentro de la plataforma no privarán al Usuario del acceso a sus datos, notas, tareas o herramientas de organización individual.
+   * **Baneo de Funciones Grupales y Sociales:** El incumplimiento de las normas de la comunidad resultará en un **baneo permanente de las funciones grupales y sociales**. El Usuario sancionado conservará el acceso a sus datos personales y herramientas individuales, pero perderá definitivamente la capacidad de interactuar, crear, unirse o publicar en grupos dentro de la Aplicación.
 
 ---
 
@@ -53,7 +54,7 @@ Zerik Labs se reserva el derecho de suspender o cancelar la cuenta de cualquier 
 
 1. **Disponibilidad:** Nos esforzamos por mantener la Aplicación disponible de forma continua a través de la infraestructura de Google Cloud / Firebase. Sin embargo, no garantizamos un funcionamiento ininterrumpido o libre de errores.
 2. **Actualizaciones:** Zerik Labs podrá lanzar actualizaciones periódicas para corregir errores, mejorar el rendimiento o añadir/modificar funciones. Algunas actualizaciones pueden ser requeridas para continuar utilizando el Servicio.
-3. **Modificaciones a los Términos:** Nos reservamos el derecho de modificar estos Términos en cualquier momento. Se notificará a los usuarios sobre cambios sustanciales a través de la Aplicación o por correo electrónico.
+3. **Modificaciones a los Términos:** Nos reservamos el derecho de modificar estos Términos en cualquier momento. Se notified a los usuarios sobre cambios sustanciales a través de la Aplicación o por correo electrónico.
 
 ---
 
@@ -65,10 +66,10 @@ Zerik Labs se reserva el derecho de suspender o cancelar la cuenta de cualquier 
 
 ---
 
-## 7. Cancelación y Eliminación de Cuenta
+## 7. Eliminación de Cuenta
 
-* **Por el Usuario:** Puede dejar de utilizar la Aplicación en cualquier momento. Asimismo, puede solicitar la eliminación definitiva de su cuenta y todos sus datos asociados desde la configuración de la app o enviando un correo a [zeriklabs@gmail.com](mailto:zeriklabs@gmail.com).
-* **Por Zerik Labs:** Podemos suspender o terminar el acceso del Usuario al Servicio si se detecta un incumplimiento grave de estos Términos o por requerimiento legal.
+* **Solicitud de Eliminación:** El Usuario tiene derecho a solicitar la eliminación permanente de su cuenta y de todos sus datos asociados en cualquier momento.
+* **Procedimiento:** Actualmente, para procesar la eliminación de su cuenta, el Usuario debe enviar una solicitud por correo electrónico a [zeriklabs@gmail.com](mailto:zeriklabs@gmail.com). Próximamente se integrará una opción directa dentro del menú de ajustes de la Aplicación para facilitar este proceso de forma automatizada.
 
 ---
 
